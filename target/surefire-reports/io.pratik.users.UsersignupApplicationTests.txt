@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: io.pratik.users.UsersignupApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.067 s - in io.pratik.users.UsersignupApplicationTests
